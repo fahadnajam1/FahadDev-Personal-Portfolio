@@ -3,7 +3,7 @@
 A complete, production-ready 3D personal portfolio website built with the MERN stack (MongoDB, Express, React, Node.js) featuring Three.js, React Three Fiber, and Framer Motion. 
 
 # Open in browser
-https://fahadnajam.netlify.app/
+https://fahaddev.netlify.app/
 ## Tech Stack
 - **Frontend**: React.js, Vite, Tailwind CSS, Framer Motion, Three.js (@react-three/fiber, @react-three/drei, maath), React Router DOM.
 - **Backend**: Node.js, Express.js, MongoDB + Mongoose, Nodemailer, express-validator.
