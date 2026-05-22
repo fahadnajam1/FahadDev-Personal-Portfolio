@@ -64,7 +64,8 @@ All personal data (projects, skills, experience, etc.) is located in `client/src
 📬 Contact
 Fahad Najam — Frontend Developer
 📧 Reach me via the contact form on the site
-🔗 LinkedIn · GitHub
+🔗 LinkedIn(https://www.linkedin.com/in/fahadnajam45/)
+    GitHub(https://github.com/fahadnajam1)
 
 📄 License
 Open source for learning and inspiration. If you use this as a base for your own portfolio, a credit or star would be appreciated. 🙂
